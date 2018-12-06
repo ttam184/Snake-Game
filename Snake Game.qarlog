@@ -1,0 +1,35 @@
+Quartus Prime Archive log --	C:/Users/opsitnmt/Desktop/Snake Game.qarlog
+
+Archive:	C:/Users/opsitnmt/Desktop/Snake Game.qar
+Date:		Thu Dec 06 17:40:10 2018
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/altpll0.bsf
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/altpll0.cmp
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/altpll0.ppf
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/altpll0.qip
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/altpll0.vhd
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/hw_image_generator.vhd
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_controller.vhd
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_pll.bsf
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_pll.cmp
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_pll.ppf
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_pll.qip
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_pll.vhd
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_with_hw_test_image.bdf
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_with_hw_test_image.out.sdc
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_with_hw_test_image.qpf
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_with_hw_test_image.qsf
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_with_hw_test_image2.bdf
+C:/Users/opsitnmt/Downloads/vga_with_hw_test_image_v1_1_restored/vga_with_hw_test_image_assignment_defaults.qdf
+	======= Total: 18 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Dec 06 17:40:26 2018
+Source archive file:	C:/Users/opsitnmt/Desktop/Snake Game.qar
+Archive was extracted into	C:/Users/opsitnmt/Desktop/Snake Game_restored/
+		 - successfully.
